@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "My Minimal Extension",
+  "version": "1.0",
+  "description": "A minimal MV3 browser extension.",
+  "action": {
+    "default_title": "Click me",
+    "default_popup": "popup.html"
+  },
+  "permissions": [],
+  "host_permissions": []
+}
